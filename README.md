@@ -7,7 +7,11 @@ Para completar el trabajo de estudio en grupo en las sesiones de teoría, se ini
 **Incluid debajo el nombre de los miembros del grupo:**
 
 Miguel Pérez López de Echazareta
+
 Mario Ubierna San Mamés
+
 David Santamaría Martín
+
 David Cacho Saiz
+
 Daniel Beato de la Torre
